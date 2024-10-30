@@ -10,6 +10,8 @@ Hydrogen is a promising energy carrier due to its environmental benefits. Tradit
 
 ## Files In This Repository 
 
+Hydrogen_Storage.ipynb - Python code that preprocesses and runs a machine learning model to predict the hydrogen storage capacity of various materials.
+Hydrogen storage dataset.xlsx - the dataset that the model was trained on. 
 
 ## Prerequisites
 
